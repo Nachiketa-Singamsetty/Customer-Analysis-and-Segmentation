@@ -1,8 +1,11 @@
-# 📊 Customer Analytics: Identifying Profitable Customers & Bestselling Products
+# 📊 Identifying Profitable Customers & Bestselling Products
 
 This project analyzes transaction data to identify the **most profitable products** and the **key characteristics of our most loyal customers**. The insights help in **targeted marketing and better product positioning**.
 
 ---
+## Video Demonstration
+
+[![Watch the video](https://img.youtube.com/vi/PmN4sAQiXbM/0.jpg)](https://youtu.be/PmN4sAQiXbM)
 
 ## 🚀 Key Findings
 
