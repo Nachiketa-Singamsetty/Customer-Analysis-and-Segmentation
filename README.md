@@ -29,3 +29,48 @@ Large snack packs dominate, suggesting a **preference for bulk purchases**, poss
 
 ## 📂 Project Structure
 
+```
+📁 Project Folder
+│-- 📜 iGnosis_Tech_Internship.ipynb  # Jupyter Notebook with analysis
+│-- 📜 README.md                      # Documentation
+│-- 📊 data/                          # Transaction dataset
+│-- 📈 reports/                       # Insights & Visualizations
+```
+
+---
+
+## 🛠️ How to Use
+
+1. Clone this repository:
+   ```sh
+   git clone https://github.com/your-username/your-repo-name.git
+   ```
+2. Open the Jupyter Notebook:
+   ```sh
+   jupyter notebook iGnosis_Tech_Internship.ipynb
+   ```
+3. Run the notebook to generate insights.
+
+---
+
+## 📌 Future Improvements
+- Perform **deeper segmentation** using machine learning clustering.
+- Analyze **seasonal trends** to refine marketing strategies.
+- Optimize **product recommendations** for different customer segments.
+
+---
+
+## 🤝 Contributing
+Feel free to **fork** this repo, create a branch, and submit a **pull request**! 🚀
+
+---
+
+## 📜 License
+This project is licensed under the **MIT License**.
+
+---
+
+### ⭐ If you find this useful, don't forget to **star ⭐ this repository!**
+```
+
+Let me know if you need any modifications! 🚀
