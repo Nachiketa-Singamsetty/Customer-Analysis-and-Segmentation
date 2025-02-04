@@ -52,9 +52,3 @@ Large snack packs dominate, suggesting a **preference for bulk purchases**, poss
 3. Run the notebook to generate insights.
 
 
----
-
-### ⭐ If you find this useful, don't forget to **star ⭐ this repository!**
-```
-
-Let me know if you need any modifications! 🚀
