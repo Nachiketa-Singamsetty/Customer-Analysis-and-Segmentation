@@ -31,10 +31,10 @@ Large snack packs dominate, suggesting a **preference for bulk purchases**, poss
 
 ```
 📁 Project Folder
-│-- 📜 iGnosis_Tech_Internship.ipynb  # Jupyter Notebook with analysis
-│-- 📜 README.md                      # Documentation
-│-- 📊 data/                          # Transaction dataset
-│-- 📈 reports/                       # Insights & Visualizations
+│-- 📜 iGnosis_Tech_Internship.ipynb  
+│-- 📜 README.md                      
+│-- 📊 purchase_behaviour.csv                          
+│-- 📈 transaction_data.csv                    
 ```
 
 ---
@@ -51,22 +51,6 @@ Large snack packs dominate, suggesting a **preference for bulk purchases**, poss
    ```
 3. Run the notebook to generate insights.
 
----
-
-## 📌 Future Improvements
-- Perform **deeper segmentation** using machine learning clustering.
-- Analyze **seasonal trends** to refine marketing strategies.
-- Optimize **product recommendations** for different customer segments.
-
----
-
-## 🤝 Contributing
-Feel free to **fork** this repo, create a branch, and submit a **pull request**! 🚀
-
----
-
-## 📜 License
-This project is licensed under the **MIT License**.
 
 ---
 
