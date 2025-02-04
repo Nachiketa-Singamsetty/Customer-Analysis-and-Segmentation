@@ -43,7 +43,7 @@ Large snack packs dominate, suggesting a **preference for bulk purchases**, poss
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/Nachiketa-Singamsetty/Customer-Analysis-and-Segmentation.git
    ```
 2. Open the Jupyter Notebook:
    ```sh
