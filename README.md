@@ -5,7 +5,7 @@ This project analyzes transaction data to identify the **most profitable product
 ---
 ## Video Demonstration
 
-Watch the video(https://youtu.be/PmN4sAQiXbM)
+[Watch the video](https://youtu.be/PmN4sAQiXbM)
 
 ## 🚀 Key Findings
 
